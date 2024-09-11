@@ -1,0 +1,24 @@
+● mssql-server.service - Microsoft SQL Server Database Engine
+     Loaded: loaded (/usr/lib/systemd/system/mssql-server.service; enabled; preset: disabled)
+    Drop-In: /usr/lib/systemd/system/service.d
+             └─10-timeout-abort.conf
+     Active: active (running) since Wed 2024-09-11 11:20:32 IST; 12min ago
+       Docs: https://docs.microsoft.com/en-us/sql/linux
+   Main PID: 8535 (sqlservr)
+      Tasks: 215
+     Memory: 890.6M (peak: 891.7M)
+        CPU: 18.505s
+     CGroup: /system.slice/mssql-server.service
+             ├─8535 /opt/mssql/bin/sqlservr
+             └─8666 /opt/mssql/bin/sqlservr
+
+Sep 11 11:20:40 Fedora-Workstation-KDE-Live-x86-64-40-1-14 sqlservr[8666]: [193B blob data]
+Sep 11 11:20:40 Fedora-Workstation-KDE-Live-x86-64-40-1-14 sqlservr[8666]: [66B blob data]
+Sep 11 11:20:40 Fedora-Workstation-KDE-Live-x86-64-40-1-14 sqlservr[8666]: [96B blob data]
+Sep 11 11:20:40 Fedora-Workstation-KDE-Live-x86-64-40-1-14 sqlservr[8666]: [100B blob data]
+Sep 11 11:20:40 Fedora-Workstation-KDE-Live-x86-64-40-1-14 sqlservr[8666]: [71B blob data]
+Sep 11 11:20:40 Fedora-Workstation-KDE-Live-x86-64-40-1-14 sqlservr[8666]: [124B blob data]
+Sep 11 11:25:38 Fedora-Workstation-KDE-Live-x86-64-40-1-14 sqlservr[8666]: [75B blob data]
+Sep 11 11:27:40 Fedora-Workstation-KDE-Live-x86-64-40-1-14 sqlservr[8666]: [156B blob data]
+Sep 11 11:27:40 Fedora-Workstation-KDE-Live-x86-64-40-1-14 sqlservr[8666]: [195B blob data]
+Sep 11 11:30:28 Fedora-Workstation-KDE-Live-x86-64-40-1-14 sqlservr[8666]: [71B blob data]

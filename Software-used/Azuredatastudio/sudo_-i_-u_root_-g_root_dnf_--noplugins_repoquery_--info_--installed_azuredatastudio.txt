@@ -1,0 +1,12 @@
+Name         : azuredatastudio
+Version      : 1.48.0
+Release      : 1708982080.el7
+Architecture : x86_64
+Size         : 631 M
+Source       : azuredatastudio-1.48.0-1708982080.el7.src.rpm
+Repository   : @System
+From repo    : @commandline
+Summary      : Azure Data connectivity.
+URL          : https://aka.ms/azuredatastudio
+License      : Microsoft EULA
+Description  : Azure Data Studio is a lightweight, cross-platform data management and development tool with connectivity to popular cloud and on-premises databases. For more information, visit https://aka.ms/azuredatastudio.

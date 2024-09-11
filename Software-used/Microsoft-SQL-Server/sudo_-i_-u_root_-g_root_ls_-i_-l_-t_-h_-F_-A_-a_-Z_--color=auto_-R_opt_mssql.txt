@@ -1,0 +1,248 @@
+/opt/mssql:
+total 16K
+140725 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 1.3K Sep 11  2024 lib/
+140717 drwxrwxr-x. 1 root root system_u:object_r:bin_t:s0  208 Sep 11  2024 bin/
+   256 drwxr-xr-x. 1 root root system_u:object_r:usr_t:s0  858 Aug 27 09:13 ../
+140716 drwxr-xr-x. 1 root root system_u:object_r:usr_t:s0   12 Mar 17 16:20 ./
+
+/opt/mssql/lib:
+total 1.3G
+140725 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 1.3K Sep 11  2024 ./
+140783 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  404 Sep 11  2024 mssql-conf/
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  110 Aug 14 06:46 loc/
+836553 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0 2.1M Aug 14 06:45 sqliosim.sfp
+836554 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0 530M Aug 14 06:45 sqlservr.sfp
+836551 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0  44M Aug 14 06:45 sqlagent.sfp
+836550 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0 164K Aug 14 06:45 secforwarderxplat.sfp
+836552 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0 224K Aug 14 06:45 sqlconnector.sfp
+836555 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0 1.8M Aug 14 06:44 system.certificates.sfp
+836559 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0  13M Aug 14 06:44 system.sfp
+836558 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0 216K Aug 14 06:44 system.security.sfp
+836560 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0 364K Aug 14 06:44 system.tzdb.sfp
+836499 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 336K Aug 14 06:41 libsqlvdi.so*
+836557 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0 399M Aug 14 06:41 system.netfx.sfp
+836556 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0 217M Aug 14 06:41 system.common.sfp
+836561 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0  30M Aug 14 06:41 system.wmi.sfp
+836500 lrwxrwxrwx. 1 root root system_u:object_r:lib_t:s0   27 Aug 14 06:41 libunwind-coredump.so -> libunwind-coredump.so.0.0.0*
+836501 lrwxrwxrwx. 1 root root system_u:object_r:lib_t:s0   27 Aug 14 06:41 libunwind-coredump.so.0 -> libunwind-coredump.so.0.0.0*
+836503 lrwxrwxrwx. 1 root root system_u:object_r:lib_t:s0   19 Aug 14 06:41 libunwind-generic.so -> libunwind-x86_64.so*
+836504 lrwxrwxrwx. 1 root root system_u:object_r:lib_t:s0   25 Aug 14 06:41 libunwind-ptrace.so -> libunwind-ptrace.so.0.0.0*
+836505 lrwxrwxrwx. 1 root root system_u:object_r:lib_t:s0   25 Aug 14 06:41 libunwind-ptrace.so.0 -> libunwind-ptrace.so.0.0.0*
+836507 lrwxrwxrwx. 1 root root system_u:object_r:lib_t:s0   25 Aug 14 06:41 libunwind-setjmp.so -> libunwind-setjmp.so.0.0.0*
+836508 lrwxrwxrwx. 1 root root system_u:object_r:lib_t:s0   25 Aug 14 06:41 libunwind-setjmp.so.0 -> libunwind-setjmp.so.0.0.0*
+836513 lrwxrwxrwx. 1 root root system_u:object_r:lib_t:s0   18 Aug 14 06:41 libunwind.so -> libunwind.so.8.0.1*
+836514 lrwxrwxrwx. 1 root root system_u:object_r:lib_t:s0   18 Aug 14 06:41 libunwind.so.8 -> libunwind.so.8.0.1*
+836510 lrwxrwxrwx. 1 root root system_u:object_r:lib_t:s0   25 Aug 14 06:41 libunwind-x86_64.so -> libunwind-x86_64.so.8.0.1*
+836511 lrwxrwxrwx. 1 root root system_u:object_r:lib_t:s0   25 Aug 14 06:41 libunwind-x86_64.so.8 -> libunwind-x86_64.so.8.0.1*
+140716 drwxr-xr-x. 1 root root system_u:object_r:usr_t:s0   12 Mar 17 16:20 ../
+836502 -rwxr-xr-x. 1 root root system_u:object_r:lib_t:s0 108K Dec 11  2022 libunwind-coredump.so.0.0.0*
+836506 -rwxr-xr-x. 1 root root system_u:object_r:lib_t:s0  83K Dec 11  2022 libunwind-ptrace.so.0.0.0*
+836509 -rwxr-xr-x. 1 root root system_u:object_r:lib_t:s0  37K Dec 11  2022 libunwind-setjmp.so.0.0.0*
+836515 -rwxr-xr-x. 1 root root system_u:object_r:lib_t:s0 354K Dec 11  2022 libunwind.so.8.0.1*
+836512 -rwxr-xr-x. 1 root root system_u:object_r:lib_t:s0 519K Dec 11  2022 libunwind-x86_64.so.8.0.1*
+836493 -rwxr-xr-x. 1 root root system_u:object_r:lib_t:s0   28 Dec 11  2022 libc++.so*
+836494 -rwxr-xr-x. 1 root root system_u:object_r:lib_t:s0 1.3M Dec 11  2022 libc++.so.1*
+836495 -rwxr-xr-x. 1 root root system_u:object_r:lib_t:s0 1.3M Dec 11  2022 libc++.so.1.0*
+836496 -rwxr-xr-x. 1 root root system_u:object_r:lib_t:s0 324K Dec 11  2022 libc++abi.so*
+836497 -rwxr-xr-x. 1 root root system_u:object_r:lib_t:s0 324K Dec 11  2022 libc++abi.so.1*
+836498 -rwxr-xr-x. 1 root root system_u:object_r:lib_t:s0 324K Dec 11  2022 libc++abi.so.1.0*
+
+/opt/mssql/lib/mssql-conf:
+total 368K
+140725 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 1.3K Sep 11  2024 ../
+140783 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  404 Sep 11  2024 ./
+140789 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0    4 Aug 14 06:44 loc/
+836527 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 1.8K Aug 14 06:36 checkinstall.sh*
+836528 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  115 Aug 14 06:36 checkrunninginstance.sh*
+836529 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 143K Aug 14 06:36 collations.txt*
+836530 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 1.9K Aug 14 06:36 extensibilityruntime.py*
+836531 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  983 Aug 14 06:36 invokesqlservr.sh*
+836544 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0  55K Aug 14 06:36 mssqlad.py
+836545 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  44K Aug 14 06:36 mssqlconfhelper.py*
+836543 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  26K Aug 14 06:36 mssql-conf.py*
+836547 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  41K Aug 14 06:36 mssqlsettingsmanager.py*
+836546 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  27K Aug 14 06:36 mssqlsettings.py*
+836548 -rw-rw-r--. 1 root root system_u:object_r:lib_t:s0 2.2K Aug 14 06:36 pyadutil.py
+836549 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  459 Aug 14 06:36 set-collation.sh*
+
+/opt/mssql/lib/mssql-conf/loc:
+total 0
+140783 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 404 Sep 11  2024 ../
+140790 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 418 Sep 11  2024 mo/
+140789 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   4 Aug 14 06:44 ./
+
+/opt/mssql/lib/mssql-conf/loc/mo:
+total 200K
+140790 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 418 Sep 11  2024 ./
+140789 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   4 Aug 14 06:44 ../
+836532 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 18K Aug 14 06:36 mssql-conf-de_DE.mo*
+836533 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 384 Aug 14 06:36 mssql-conf-en_US.mo*
+836534 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 19K Aug 14 06:36 mssql-conf-es_ES.mo*
+836535 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 19K Aug 14 06:36 mssql-conf-fr_FR.mo*
+836536 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 18K Aug 14 06:36 mssql-conf-it_IT.mo*
+836537 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 20K Aug 14 06:36 mssql-conf-ja_JP.mo*
+836538 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 19K Aug 14 06:36 mssql-conf-ko_KR.mo*
+836539 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 18K Aug 14 06:36 mssql-conf-pt_BR.mo*
+836540 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 23K Aug 14 06:36 mssql-conf-ru_RU.mo*
+836541 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 16K Aug 14 06:36 mssql-conf-zh_CN.mo*
+836542 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 16K Aug 14 06:36 mssql-conf-zh_TW.mo*
+
+/opt/mssql/lib/loc:
+total 0
+140725 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 1.3K Sep 11  2024 ../
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  110 Aug 14 06:46 ./
+140750 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 de_DE/
+140753 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 en_US/
+140756 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 es_ES/
+140759 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 fr_FR/
+140762 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 it_IT/
+140765 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ja_JP/
+140768 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ko_KR/
+140771 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 pt_BR/
+140774 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ru_RU/
+140777 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 zh_CN/
+140780 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 zh_TW/
+
+/opt/mssql/lib/loc/de_DE:
+total 0
+140751 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Sep 11  2024 LC_MESSAGES/
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 110 Aug 14 06:46 ../
+140750 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Aug 14 06:36 ./
+
+/opt/mssql/lib/loc/de_DE/LC_MESSAGES:
+total 4.0K
+140751 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Sep 11  2024 ./
+140750 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ../
+836516 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 2.0K Aug 14 06:36 sqlservr.mo*
+
+/opt/mssql/lib/loc/en_US:
+total 0
+140754 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Sep 11  2024 LC_MESSAGES/
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 110 Aug 14 06:46 ../
+140753 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Aug 14 06:36 ./
+
+/opt/mssql/lib/loc/en_US/LC_MESSAGES:
+total 4.0K
+140754 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 22 Sep 11  2024 ./
+140753 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 22 Aug 14 06:36 ../
+836517 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 28 Aug 14 06:36 sqlservr.mo*
+
+/opt/mssql/lib/loc/es_ES:
+total 0
+140757 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Sep 11  2024 LC_MESSAGES/
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 110 Aug 14 06:46 ../
+140756 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Aug 14 06:36 ./
+
+/opt/mssql/lib/loc/es_ES/LC_MESSAGES:
+total 4.0K
+140757 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Sep 11  2024 ./
+140756 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ../
+836518 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 2.1K Aug 14 06:36 sqlservr.mo*
+
+/opt/mssql/lib/loc/fr_FR:
+total 0
+140760 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Sep 11  2024 LC_MESSAGES/
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 110 Aug 14 06:46 ../
+140759 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Aug 14 06:36 ./
+
+/opt/mssql/lib/loc/fr_FR/LC_MESSAGES:
+total 4.0K
+140760 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Sep 11  2024 ./
+140759 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ../
+836519 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 2.3K Aug 14 06:36 sqlservr.mo*
+
+/opt/mssql/lib/loc/it_IT:
+total 0
+140763 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Sep 11  2024 LC_MESSAGES/
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 110 Aug 14 06:46 ../
+140762 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Aug 14 06:36 ./
+
+/opt/mssql/lib/loc/it_IT/LC_MESSAGES:
+total 4.0K
+140763 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Sep 11  2024 ./
+140762 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ../
+836520 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 2.2K Aug 14 06:36 sqlservr.mo*
+
+/opt/mssql/lib/loc/ja_JP:
+total 0
+140766 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Sep 11  2024 LC_MESSAGES/
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 110 Aug 14 06:46 ../
+140765 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Aug 14 06:36 ./
+
+/opt/mssql/lib/loc/ja_JP/LC_MESSAGES:
+total 4.0K
+140766 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Sep 11  2024 ./
+140765 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ../
+836521 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 2.2K Aug 14 06:36 sqlservr.mo*
+
+/opt/mssql/lib/loc/ko_KR:
+total 0
+140769 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Sep 11  2024 LC_MESSAGES/
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 110 Aug 14 06:46 ../
+140768 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Aug 14 06:36 ./
+
+/opt/mssql/lib/loc/ko_KR/LC_MESSAGES:
+total 4.0K
+140769 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Sep 11  2024 ./
+140768 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ../
+836522 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 2.1K Aug 14 06:36 sqlservr.mo*
+
+/opt/mssql/lib/loc/pt_BR:
+total 0
+140772 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Sep 11  2024 LC_MESSAGES/
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 110 Aug 14 06:46 ../
+140771 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Aug 14 06:36 ./
+
+/opt/mssql/lib/loc/pt_BR/LC_MESSAGES:
+total 4.0K
+140772 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Sep 11  2024 ./
+140771 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ../
+836523 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 2.1K Aug 14 06:36 sqlservr.mo*
+
+/opt/mssql/lib/loc/ru_RU:
+total 0
+140775 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Sep 11  2024 LC_MESSAGES/
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 110 Aug 14 06:46 ../
+140774 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Aug 14 06:36 ./
+
+/opt/mssql/lib/loc/ru_RU/LC_MESSAGES:
+total 4.0K
+140775 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Sep 11  2024 ./
+140774 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ../
+836524 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 2.6K Aug 14 06:36 sqlservr.mo*
+
+/opt/mssql/lib/loc/zh_CN:
+total 0
+140778 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Sep 11  2024 LC_MESSAGES/
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 110 Aug 14 06:46 ../
+140777 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Aug 14 06:36 ./
+
+/opt/mssql/lib/loc/zh_CN/LC_MESSAGES:
+total 4.0K
+140778 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Sep 11  2024 ./
+140777 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ../
+836525 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 1.9K Aug 14 06:36 sqlservr.mo*
+
+/opt/mssql/lib/loc/zh_TW:
+total 0
+140781 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Sep 11  2024 LC_MESSAGES/
+140749 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 110 Aug 14 06:46 ../
+140780 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0  22 Aug 14 06:36 ./
+
+/opt/mssql/lib/loc/zh_TW/LC_MESSAGES:
+total 4.0K
+140781 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Sep 11  2024 ./
+140780 drwxrwxr-x. 1 root root system_u:object_r:lib_t:s0   22 Aug 14 06:36 ../
+836526 -rwxrwxr-x. 1 root root system_u:object_r:lib_t:s0 2.0K Aug 14 06:36 sqlservr.mo*
+
+/opt/mssql/bin:
+total 4.7M
+140717 drwxrwxr-x. 1 root root system_u:object_r:bin_t:s0  208 Sep 11  2024 ./
+836492 -rwxrwxr-x. 1 root root system_u:object_r:bin_t:s0 2.4M Aug 14 06:46 sqlservr*
+836491 -rwxrwxr-x. 1 root root system_u:object_r:bin_t:s0 2.3M Aug 14 06:46 paldumper*
+836486 -rwxrwxr-x. 1 root root system_u:object_r:bin_t:s0  794 Aug 14 06:46 compress-dump.sh*
+836487 -rwxrwxr-x. 1 root root system_u:object_r:bin_t:s0  22K Aug 14 06:46 crash-support-functions.sh*
+836488 -rwxrwxr-x. 1 root root system_u:object_r:bin_t:s0 1.8K Aug 14 06:46 generate-sql-dump.sh*
+836489 -rwxrwxr-x. 1 root root system_u:object_r:bin_t:s0 4.0K Aug 14 06:46 handle-crash.sh*
+836490 -rwxrwxr-x. 1 root root system_u:object_r:bin_t:s0  277 Aug 14 06:36 mssql-conf*
+140716 drwxr-xr-x. 1 root root system_u:object_r:usr_t:s0   12 Mar 17 16:20 ../
