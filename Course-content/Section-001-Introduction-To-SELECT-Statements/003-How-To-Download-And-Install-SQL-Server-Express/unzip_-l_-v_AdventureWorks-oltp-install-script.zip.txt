@@ -1,0 +1,77 @@
+Archive:  /run/media/ramumsrk/1.0TiB/repositories/Microsoft-SQL-For-Beginners/Course-content/Section-001-Introduction-To-SELECT-Statements/003-How-To-Download-And-Install-SQL-Server-Express/AdventureWorks-oltp-install-script.zip
+ Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
+--------  ------  ------- ---- ---------- ----- --------  ----
+ 2940373  Defl:N  1248485  58% 10-27-2017 11:13 ee330c7e  Address.csv
+     422  Defl:N      242  43% 10-27-2017 11:13 7f259943  AddressType.csv
+      55  Defl:N       49  11% 10-27-2017 11:13 3f144c8f  AWBuildVersion.csv
+  179374  Defl:N    19889  89% 10-27-2017 11:13 04405b60  BillOfMaterials.csv
+ 3218282  Defl:N   733772  77% 10-27-2017 11:13 ac59e6b3  BusinessEntity.csv
+ 3042004  Defl:N   764615  75% 10-27-2017 11:13 e13ea094  BusinessEntityAddress.csv
+  153552  Defl:N    36268  76% 10-27-2017 11:13 763cd4e7  BusinessEntityContact.csv
+     886  Defl:N      251  72% 10-27-2017 11:13 e650b6ff  ContactType.csv
+   16692  Defl:N     2708  84% 10-27-2017 11:13 96d6e692  CountryRegion.csv
+    8086  Defl:N      715  91% 10-27-2017 11:13 01f3d901  CountryRegionCurrency.csv
+ 1146319  Defl:N   271015  76% 10-27-2017 11:13 5439bb95  CreditCard.csv
+     313  Defl:N      135  57% 10-27-2017 11:13 b4981d2f  Culture.csv
+    3997  Defl:N     1148  71% 10-27-2017 11:13 f7313b5e  Currency.csv
+  919702  Defl:N   129872  86% 10-27-2017 11:13 29d16dc0  CurrencyRate.csv
+ 1895704  Defl:N   641964  66% 10-27-2017 11:13 cabf9b5a  Customer.csv
+    1027  Defl:N      289  72% 10-27-2017 11:13 8686f4a6  Department.csv
+ 1157828  Defl:N   166287  86% 10-27-2017 11:13 c4bb8c64  Document.csv
+ 4135464  Defl:N   886208  79% 10-27-2017 11:13 2bf69366  EmailAddress.csv
+   96028  Defl:N    20777  78% 10-27-2017 11:13 32c8ccdb  Employee.csv
+   12133  Defl:N     2223  82% 10-27-2017 11:13 d40581f1  EmployeeDepartmentHistory.csv
+   16329  Defl:N     2156  87% 10-27-2017 11:13 bdbdb7d9  EmployeePayHistory.csv
+  240926  Defl:N    40800  83% 10-27-2017 11:13 283127e3  Illustration.csv
+  959826  Defl:N    65558  93% 10-27-2017 11:13 98f63903  instawdb.sql
+  108444  Defl:N    15340  86% 10-27-2017 11:13 6036abb3  JobCandidate.csv
+  108288  Defl:N    15354  86% 10-27-2017 11:13 cfb1e86d  JobCandidate_TOREMOVE.csv
+     660  Defl:N      230  65% 10-27-2017 11:13 49c3006a  Location.csv
+ 4933364  Defl:N  1882109  62% 10-27-2017 11:13 043ae0dc  Password.csv
+27034270  Defl:N  1902562  93% 10-27-2017 11:13 da7e110a  Person.csv
+  611128  Defl:N   153536  75% 10-27-2017 11:13 22bedf2f  PersonCreditCard.csv
+ 1986294  Defl:N   225297  89% 10-27-2017 11:13 1eb388d2  PersonPhone.csv
+     254  Defl:N       83  67% 10-27-2017 11:13 760a0aaa  PhoneNumberType.csv
+   88369  Defl:N    22190  75% 10-27-2017 11:13 428cf4ad  Product.csv
+     286  Defl:N      176  39% 10-27-2017 11:13 3639311f  ProductCategory.csv
+   25375  Defl:N     2371  91% 10-27-2017 11:13 754c6ee6  ProductCostHistory.csv
+  204354  Defl:N    56649  72% 10-27-2017 11:13 81053ec5  ProductDescription.csv
+    1280  Defl:N      135  90% 10-27-2017 11:13 06fe168e  ProductDocument.csv
+   80316  Defl:N    32169  60% 10-27-2017 11:13 beebe33a  ProductInventory.csv
+   24904  Defl:N     2140  91% 10-27-2017 11:13 55d2fb06  ProductListPriceHistory.csv
+  107216  Defl:N    14585  86% 10-27-2017 11:13 5b941783  ProductModel.csv
+     251  Defl:N       69  73% 10-27-2017 11:13 4d72f5e3  ProductModelIllustration.csv
+  106488  Defl:N    14562  86% 10-27-2017 11:13 73250e75  ProductModelorg.csv
+   27448  Defl:N     3746  86% 10-27-2017 11:13 627dd0eb  ProductModelProductDescriptionCulture.csv
+ 8044298  Defl:N  2680384  67% 10-27-2017 11:13 2fe4889c  ProductPhoto.csv
+   14888  Defl:N     1331  91% 10-27-2017 11:13 28b7d4a3  ProductProductPhoto.csv
+    5257  Defl:N     2539  52% 10-27-2017 11:13 516fd94a  ProductReview.csv
+    2762  Defl:N     1241  55% 10-27-2017 11:13 51da3724  ProductSubcategory.csv
+   36264  Defl:N     4754  87% 10-27-2017 11:13 ee00f7eb  ProductVendor.csv
+  795334  Defl:N    89452  89% 10-27-2017 11:13 0df96f1d  PurchaseOrderDetail.csv
+  464024  Defl:N    62523  87% 10-27-2017 11:13 10093874  PurchaseOrderHeader.csv
+12950539  Defl:N  3932475  70% 10-27-2017 11:13 cf5edf4a  SalesOrderDetail.csv
+ 7399526  Defl:N  2111705  72% 10-27-2017 11:13 3611652b  SalesOrderHeader.csv
+  803158  Defl:N    69923  91% 10-27-2017 11:13 c94fe8d6  SalesOrderHeaderSalesReason.csv
+    1770  Defl:N      806  55% 10-27-2017 11:13 c436b7fa  SalesPerson.csv
+   14842  Defl:N     5172  65% 10-27-2017 11:13 c557927d  SalesPersonQuotaHistory.csv
+     436  Defl:N      167  62% 10-27-2017 11:13 814afb43  SalesReason.csv
+    2652  Defl:N     1099  59% 10-27-2017 11:13 fe35bd95  SalesTaxRate.csv
+    1157  Defl:N      572  51% 10-27-2017 11:13 758e3951  SalesTerritory.csv
+    1556  Defl:N      559  64% 10-27-2017 11:13 a8f8b194  SalesTerritoryHistory.csv
+     732  Defl:N      250  66% 10-27-2017 11:13 341c0b6a  ScrapReason.csv
+     189  Defl:N       68  64% 10-27-2017 11:13 8d0fab8c  Shift.csv
+     447  Defl:N      257  43% 10-27-2017 11:13 e56a7308  ShipMethod.csv
+     225  Defl:N       68  70% 10-27-2017 11:13 52040f2a  ShoppingCartItem.csv
+    2557  Defl:N      896  65% 10-27-2017 11:13 713e4a43  SpecialOffer.csv
+   35554  Defl:N    13903  61% 10-27-2017 11:13 4ad349db  SpecialOfferProduct.csv
+   31650  Defl:N     8404  73% 10-27-2017 11:13 1d182865  StateProvince.csv
+  735570  Defl:N    56825  92% 10-27-2017 11:13 a41a8675  Store.csv
+ 7900580  Defl:N  1076616  86% 10-27-2017 11:13 9ac29c4f  TransactionHistory.csv
+ 6112844  Defl:N   819427  87% 10-27-2017 11:13 a6d5aa5e  TransactionHistoryArchive.csv
+    1310  Defl:N      347  74% 10-27-2017 11:13 d7192114  UnitMeasure.csv
+    6849  Defl:N     2299  66% 10-27-2017 11:13 14fa3d0e  Vendor.csv
+ 7151029  Defl:N   459126  94% 10-27-2017 11:13 56a10aa3  WorkOrder.csv
+ 8922590  Defl:N   438882  95% 10-27-2017 11:13 30b28bb7  WorkOrderRouting.csv
+--------          -------  ---                            -------
+117034900         21220799  82%                            72 files
