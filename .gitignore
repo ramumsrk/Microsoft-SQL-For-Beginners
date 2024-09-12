@@ -4,3 +4,8 @@
 # Ignore compressed files with
 # extension *.zip
 *.zip
+# Ignore Microsoft document files
+# with either extensions *.docx or
+# *.doc
+*.docx
+*.doc
